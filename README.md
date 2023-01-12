@@ -44,3 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://ch
 | ![](./images/image2.jpg) | ![](./images/image4.jpg) |
 | ------------------------ | ------------------------ |
 | ![](./images/image3.jpg) | ![](./images/image1.jpg) |
+
+Note
+
+This is a school project and you should consider the data and information inside this app as for educational purpose only.
