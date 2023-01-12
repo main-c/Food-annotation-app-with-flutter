@@ -29,9 +29,6 @@ This app allows users to take a picture of their food and annotate it with infor
 - [Flutter](https://flutter.dev/) - The framework used for building the app
 - [Dart](https://dart.dev/) - The programming language used for the app
 
-## Authors
-
-- [Yannik KADJIE](https://github.com/main-c)
 
 ## License
 
